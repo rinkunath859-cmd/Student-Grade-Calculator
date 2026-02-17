@@ -114,3 +114,8 @@ Message: Very Good! Keep it up!
  📌 Conclusion
 
 This project strengthens core Python fundamentals and demonstrates how decision-making and repetition are implemented in real-world programs. It is a beginner-friendly project suitable for learning and portfolio submission.
+
+👤 Author
+
+Ravindra Nath Rinku
+Beginner Python Developer
