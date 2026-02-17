@@ -1,0 +1,74 @@
+🧪 Student Grade Calculator – Test Cases
+
+✅ Test Case 1: Grade A
+Enter student name:  Rahul
+Enter marks (0-100):  95
+
+📊 RESULT FOR RAHUL:
+Marks: 95 /100
+Grade: A
+Message: Outstanding! You are amazing! 🌟
+
+✅ Test Case 2: Grade B
+Enter student name:  priya
+Enter marks (0-100):  85
+
+📊 RESULT FOR PRIYA:
+Marks: 85 /100
+Grade: B
+Message: Very Good! Keep it up! 👍
+
+✅ Test Case 3: Grade C
+Enter student name:  Ankit
+Enter marks (0-100):  72
+
+📊 RESULT FOR ANKIT:
+Marks: 72 /100
+Grade: C
+Message: Good job! You can do even better! 💪
+
+✅ Test Case 4: Grade D
+Enter student name:  Sneha
+Enter marks (0-100):  65
+
+📊 RESULT FOR SNEHA:
+Marks: 65 /100
+Grade: D
+Message: Keep working hard! Improvement is possible! 📘
+
+✅ Test Case 5: Grade F
+Enter student name:  Aman
+Enter marks (0-100):  40
+
+📊 RESULT FOR AMAN:
+Marks: 40 /100
+Grade: F
+Message: Don’t give up! Practice makes perfect! ✨
+
+❌ Test Case 6: Invalid Negative Marks
+Enter student name:  Kiran
+Enter marks (0-100):  -10
+❌ Marks must be between 0 and 100. Try again.
+
+❌ Test Case 7: Marks Greater Than 100
+Enter student name:  Riya
+Enter marks (0-100):  120
+❌ Marks must be between 0 and 100. Try again.
+
+❌ Test Case 8: Non-Numeric Input
+Enter student name:  Arjun
+Enter marks (0-100):  abc
+❌ Invalid input! Please enter numbers only.
+
+🔁 Test Case 9: Empty Input 
+Enter student name:  Meera
+Enter marks (0-100):  
+❌ Invalid input! Please enter numbers only.
+
+This covers:
+
+✔ All grade categories
+✔ Boundary validation
+✔ Invalid range handling
+✔ Error handling
+✔ Loop validation
